@@ -36,4 +36,4 @@ This program recursively computes f(N), where N is an integer greater than zero 
 This program prints out the first N positive integers that are divisible
 by 7, where N is an integer that is input to the program. The program prompts the user for the value of N via the console using syscalls. 
 
-## Both programs abide MIPS calling conventions
+### ALL programs follow MIPS calling conventions
